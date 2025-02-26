@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m Yunfan Lu, a PhD student at the Hong Kong Un
 
 Here you’ll find my research papers and associated code repositories:
 
-## 📝 Papers and Code
+### 📝 Papers and Code
 
 - [**ICLR 2025**] [RGB-Event ISP: The Dataset and Benchmark](https://github.com/yunfanLu/RGB-Event-ISP)
 - [**ECCV 2024**] [UniINR: Event-Guided Unified Rolling Shutter Correction, Deblurring, and Interpolation](https://github.com/yunfanLu/UniINR)
@@ -13,18 +13,14 @@ Here you’ll find my research papers and associated code repositories:
 - [**Preprint**] [Continuous Space-Time Video Super-Resolution via Event Camera](https://github.com/yunfanLu/HR-INR)
 - [**Preprint**] [Self-supervised learning of event-guided video frame interpolation for rolling shutter frames](https://github.com/yunfanLu/EG-VFI)
 
-## 📚 Surveys
+### 📚 Surveys
 
 - [**Survey**] [Deep Learning for Event-Based Vision: A Comprehensive Survey and Benchmarks](https://github.com/yunfanLu/Awesome-Events-Deep-Learning)
 - [**Survey**] [Priors in Deep Image Restoration and Enhancement: A Survey](https://github.com/yunfanLu/Awesome-Image-Prior)
 - [**Survey**] [From Events to Enhancement: A Survey on Event-Based Imaging Technologies](https://github.com/yunfanLu/Awesome-Event-Imaging)
 
-## 🌱 What I'm Working On
-Currently, I'm exploring novel applications of event-based imaging for enhancing real-time video processing, focusing on integrating implicit neural representations with event cameras.
+### 👯 Let's Collaborate
+If you’re interested in event-based imaging, feel free to reach out! I’m always open to collaboration.
 
-## 👯 Let's Collaborate
-If you’re interested in event-based imaging, computer vision, or deep learning, feel free to reach out! I’m always open to collaboration.
-
-## 📫 How to Reach Me
 - Email: yunfan.lu@connect.hkust-gz.edu
 - [GitHub](https://github.com/yunfanLu)
