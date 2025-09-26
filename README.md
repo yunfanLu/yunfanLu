@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I’m Yunfan Lu, a PhD student at the Hong Kong University of Science and Technology, Guangzhou. I specialize in mobile imaging tasks like low-light enhancement, digital zoom, video deblurring, and ISP pipelines.
+Welcome to my GitHub profile! I’m Yunfan Lu, a PhD student at HKUST (GZ) and a visiting researcher at the Robotics and Perception Group (UZH/ETH Zurich).
 
-Here you’ll find my research papers and associated code repositories:
+Here you’ll find my research papers and code repositories:
 
 ### 📝 Papers and Code
 
