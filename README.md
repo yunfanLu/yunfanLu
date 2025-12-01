@@ -1,7 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I’m Yunfan Lu, a PhD student at HKUST (GZ) and a visiting researcher at the Robotics and Perception Group (UZH/ETH Zurich).
-Here you’ll find my research papers and code repositories:
+Welcome to my GitHub profile! I’m Yunfan Lu. Here you’ll find my research papers and code repositories:
 
 ### 📝 Papers and Code
 
