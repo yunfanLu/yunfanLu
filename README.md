@@ -1,5 +1,3 @@
-# Hi there 👋
-
 Welcome to my GitHub profile! I’m Yunfan Lu. Here you’ll find my research papers and code repositories:
 
 ### 📝 Papers and Code
