@@ -1,6 +1,6 @@
-# 👋
+## 👋 Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! I’m Yunfan Lu. Here you’ll find my research papers and code repositories:
+I’m Yunfan Lu. Here you’ll find my research papers and code repositories:
 
 ### 📝 Papers and Code
 
@@ -28,8 +28,4 @@ Welcome to my GitHub profile! I’m Yunfan Lu. Here you’ll find my research pa
 - [**Survey**] [Priors in Deep Image Restoration and Enhancement: A Survey](https://github.com/yunfanLu/Awesome-Image-Prior)
 - [**Survey**] [From Events to Enhancement: A Survey on Event-Based Imaging Technologies](https://github.com/yunfanLu/Awesome-Event-Imaging)
 
-### 👯 Let's Collaborate
-If you’re interested in event-based imaging, feel free to reach out! I’m always open to collaboration.
-
-- Email: yunfan.lu@connect.hkust-gz.edu
-- [GitHub](https://github.com/yunfanLu)
+Email: ylu066@connect.hkust-gz.edu
