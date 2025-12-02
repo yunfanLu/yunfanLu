@@ -28,4 +28,4 @@ I’m Yunfan Lu. Here you’ll find my research papers and code repositories:
 - [**Survey**] [Priors in Deep Image Restoration and Enhancement: A Survey](https://github.com/yunfanLu/Awesome-Image-Prior)
 - [**Survey**] [From Events to Enhancement: A Survey on Event-Based Imaging Technologies](https://github.com/yunfanLu/Awesome-Event-Imaging)
 
-Email: ylu066@connect.hkust-gz.edu
+Email: ylu066@connect.hkust-gz.edu.cn
